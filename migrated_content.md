@@ -553,7 +553,7 @@ effectively and how to create a Metasploit module/exploit.
 
 19 15 - 20 00 **Google bug bounty - is it worth it or just a waste of
 time?**, Michał Bentkowski, securitum.pl, [slides
-here](https://www.owasp.org/index.php/File:Google_bounty.pdf)
+here](/www-pdf-archive/File:Google_bounty.pdf)
 
 In the presentation I will talk about my two year adventures with
 Google’s bug bounty programme. I will share my general feeling about
@@ -665,11 +665,11 @@ Spotkanie odbędzie się w **Centrum Kongresowe i Hotel IOR ul. Węgorka
 16:00 - 16:10 - Otwarcie spotkania, aktualności OWASP Polska
 
 16:15 - 17:00 - [**Phishing - Atak i obrona - Dawid Golak
-(Allegro.pl)**](https://www.owasp.org/images/d/d9/Prezentacja-owasp-2014.pdf)
+(Allegro.pl)**](/www-pdf-archive/Prezentacja-owasp-2014.pdf)
 
 17:05 - 18:00 - [**Modelowanie zachowań użytkowników serwisów
 internetowych w celu identyfikacji prób ataku (dr Marek Zachara,
-AGH)**](https://www.owasp.org/images/a/ac/Marek_Zachara-raport.pdf)
+AGH)**](/www-pdf-archive/Marek_Zachara-raport.pdf)
 
 **Rejestracja**:
 [tutaj.](http://www.eventbrite.com/e/spotkanie-owasp-poznan-02122014-tickets-14441774737)
@@ -684,7 +684,7 @@ Fort Sokolnickiego ul. Stefana Czarnieckiego 51, start godzina 17:30.
 17:30 - 17:45 - Otwarcie spotkania, aktualności OWASP Polska
 
 17:45 - 18:15 - [**OWASP ASVS 2.0 (Application Security Verification
-Standard)**](https://www.owasp.org/images/9/93/Application_Security_Verification_Standard.pdf)
+Standard)**](/www-pdf-archive/Application_Security_Verification_Standard.pdf)
 - Wojciech Dworakowski, OWASP Poland Chapter Leader, Securing
 
 Prezentacja ma na celu przedstawienie standardu weryfikacji
@@ -706,7 +706,7 @@ standardu ASVS i na tej nowej wersji będzie skupiona prezentacja.
 
 18:15 - 18:45 - [**Jak efektywnie wykrywać podatności bezpieczeństwa w
 aplikacjach?** - Jakub Botwicz, EY Advanced Security
-Center](https://www.owasp.org/index.php/File:Jakub_Botwicz_-_Prezentacja_OWASP_-_2014-11-19.pdf)
+Center](/www-pdf-archive/File:Jakub_Botwicz_-_Prezentacja_OWASP_-_2014-11-19.pdf)
 
 W prezentacji zostanie przedstawiony przegląd technik i narzędzi
 pozwalających identyfikować podatności bezpieczeństwa w aplikacjach,
@@ -743,7 +743,7 @@ pracodawcy - 3 min.
 
 1\. [**Modelowanie zachowań użytkowników serwisów internetowych w celu
 identyfikacji prób ataku (dr Marek Zachara,
-AGH)**](https://www.owasp.org/images/a/ac/Marek_Zachara-raport.pdf)
+AGH)**](/www-pdf-archive/Marek_Zachara-raport.pdf)
 
 Przedstawienie wyników projektu badawczego nakierowanego na automatyczne
 tworzenie profilu zachowań użytkowników serwisu internetowego, tu w
@@ -758,7 +758,7 @@ jest brak konieczności konfiguracji i utrzymywania tego systemu ochrony
 
 2\. [**Przechwytywanie ruchu w niestandardowych protokołach sieciowych
 (Jakub Kałużny,
-SecuRing)**](https://www.owasp.org/images/f/f9/Przechwytywanie_ruchu_w_niestandardowych_protoko%C5%82ach_sieciowych_JK.pdf)
+SecuRing)**](/www-pdf-archive/Przechwytywanie_ruchu_w_niestandardowych_protoko%C5%82ach_sieciowych_JK.pdf)
 
 Istnieje mnóstwo narzędzi umożliwiających przechwytywanie ruchu
 HTTP/HTTPS, co świetnie się sprawdza podczas testowania aplikacji
@@ -803,7 +803,7 @@ street, <http://www.restauracjaaugusta.pl/>)
   - 19.00-19.15 OWASP News
   - 19.15-19.45 [**Security in continuous delivery environment**, Jakub
     Nawalaniec, Base
-    CRM](https://www.owasp.org/images/6/64/Owasp_prez.pdf)
+    CRM](/www-pdf-archive/Owasp_prez.pdf)
 
 The presentation will cover topics related to developing secure SOA
 applications in Continuous Delivery environment, based on my experiences
@@ -934,10 +934,10 @@ Władysława Węgorka 20A (wejście od Grunwaldzkiej)
 
   - 15.00 - OWASP News
   - 15.10 - Taras Ivashchenko ["Content Security
-    Policy"](Media:oxdef_csp_poland.pdf "wikilink")
+    Policy"](Media:oxdef_csp_poland.pdf )
   - 15.55 - przerwa kawowa
   - 16.10 - Michał Olczak ["Antimalware Webapp
-    Solution"](Media:AntiMalware_Solution.pdf "wikilink")
+    Solution"](Media:AntiMalware_Solution.pdf )
   - 16.55 - TBA
 
 **Rejestracja:** <https://owasppoznan.eventbrite.com>
@@ -1074,7 +1074,7 @@ Marcowe spotkanie OWASP w Warszawie.
     do rozwoju bezpieczeństwa w największych światowych korporacjach
     finansowych oraz FMCG.
   - 19:00 - 19:45 - ["2012 w bezpieczeństwie aplikacji
-    PHP"](Media:OWASP_lpilorz_PHP_2012.pdf‎ "wikilink") - Łukasz Pilorz,
+    PHP"](Media:OWASP_lpilorz_PHP_2012.pdf‎ ) - Łukasz Pilorz,
     Allegro. Przegląd najciekawszych podatności we frameworkach i
     popularnych aplikacjach PHP z ostatnich kilkunastu miesięcy.
     Zaprezentowane zostaną przykłady podatnego kodu, praktyczne metody
@@ -1244,7 +1244,7 @@ Agenda:
   - 18:00 - 18:15 - Otwarcie spotkania, aktualnosci OWASP Polska
   - 18:15 - 19:00 - [*Bankowosc mobilna - analiza ryzyka na przykladzie
     telefonow
-    iPhone*](Media:Presentation_Mariusz_Burdach.pdf "wikilink")
+    iPhone*](Media:Presentation_Mariusz_Burdach.pdf )
       - Czy bankowosc mobilna jest bezpieczna? Jakie sa glowne
         zagrozenia dla przecietnego uzytkownika? Pokazemy tez, jak
         sprawdzic, czy aplikacja mobilna jest dobrze napisana. Podczas
@@ -1254,7 +1254,7 @@ Agenda:
   - 19:00 - 19:45 - [*Zapewnienie bezpieczenstwa w calym cyklu zycia
     aplikacji - czyli dlaczego lepiej zapobiegac chorobom, niz leczyc je
     w zaawansowanym
-    stadium*](Media:Jakub_Botwicz_-_Prezentacja_OWASP_-_2012-10-09.pdf "wikilink")
+    stadium*](Media:Jakub_Botwicz_-_Prezentacja_OWASP_-_2012-10-09.pdf )
       - Obecnie powszechne jest testowanie penetracyjne aplikacji przed
         wdrozeniem w srodowisku produkcyjnym korzystajac z uslug firm
         zewnetrznych. Pozwala to wykryc istotne z punktu widzenia
@@ -1430,7 +1430,7 @@ konferencji.](http://2012.confidence.org.pl/?utm_source=owasp&utm_medium=banner&
 W ramach tegorocznej edycji KrakYourNet (14 - 21.04) an AGH w Krakowie
 Wojciech Dworakowski zaprezentował dokumenty i narzędzia rozwijane w
 ramach działalności OWASP. Prezentację można pobrać
-[tutaj.](Media:Bezpieczeństwo_aplikacji_webowych_-_standardy,_przewodniki_i_narzędzia_OWASP_-_KrakYourNet_-_20120419.pdf "wikilink")
+[tutaj.](Media:Bezpieczeństwo_aplikacji_webowych_-_standardy,_przewodniki_i_narzędzia_OWASP_-_KrakYourNet_-_20120419.pdf )
 
 Więcej informacji na temat wykładu
 [tutaj](http://www.krakyournet.pl/index/event/4).
@@ -1532,7 +1532,7 @@ by ISSA Poland. Please confirm Your attendance
     libraries](http://prezi.com/awm8psp-i1ok/no-mans-land/) - Sławomir
     Jasek, SecuRing.
   - [Defending ASP.Net apps against
-    XSS.](Media:Defending_ASP.Net_Apps_against_XSS.pdf "wikilink") -
+    XSS.](Media:Defending_ASP.Net_Apps_against_XSS.pdf ) -
     Mateusz Olejarka, VSoft S.A.
   - [Bad coding with Ruby on
     Rails](http://prezi.com/zn6ixh6n4obl/bad-coding-with-ruby-on-rails/)
@@ -1651,13 +1651,13 @@ by ISSA Poland.
 
 Agenda:
 
-  - [OWASP News](Media:OWASP_News_20111123.pdf "wikilink")
+  - [OWASP News](Media:OWASP_News_20111123.pdf )
   - [Selected vulnerabilities in web management consoles of network
     devices](http://www.securitum.pl/dh/owasp_krakow_112011.pdf) -
     Michał Sajdak, Securitum
   - [Groundbreaking OWASP tools for developers. Brief introduction to
     OWASP ESAPI and
-    AppSensor](Media:OWASP_ESAPI_and_AppSensor_-_intro.pdf "wikilink")-
+    AppSensor](Media:OWASP_ESAPI_and_AppSensor_-_intro.pdf )-
     Wojciech Dworakowski, SecuRing
   - [CouchDB security](http://prezi.com/zeuz-3td6iqe/couchdb-security/)
     - Paweł Krawczyk
@@ -1745,11 +1745,11 @@ limited. Agenda:
 <!-- end list -->
 
   - **Download :**
-      - [OWASP News](Media:OWASP_News_20110927.pdf "wikilink")
+      - [OWASP News](Media:OWASP_News_20110927.pdf )
       - [Aleksander Ludynia - Bezpieczenstwo aplikacji
-        mobilnych](Media:OWASP_2011_-_Aleksander_Ludynia_-_Bezpieczenstwo_aplikacji_mobilnych.pdf "wikilink")
+        mobilnych](Media:OWASP_2011_-_Aleksander_Ludynia_-_Bezpieczenstwo_aplikacji_mobilnych.pdf )
       - [Slawomir Rozbicki - Session
-        Management](Media:OWASP_2011_-_Slawomir_Rozbicki_-_Session_Managemnt.pdf "wikilink")
+        Management](Media:OWASP_2011_-_Slawomir_Rozbicki_-_Session_Managemnt.pdf )
 
 ### 14\. September 2011 - Krakow
 
@@ -1865,7 +1865,7 @@ financial applications and security in software development lifecycle.
 
 6:00pm - 6:40pm ... "OWASP News" - Przemyslaw Skowron, OWASP Leader
 6:45pm - 7:20pm ... ["Cross-Site
-Scripting"](Media:OWASP_2011_-_Michał_Kurek_-_Cross-Site_Scripting.pdf "wikilink")
+Scripting"](Media:OWASP_2011_-_Michał_Kurek_-_Cross-Site_Scripting.pdf )
 - Michal Kurek, Ernst\&Young
 7:25pm - 8:00pm ... "Phishing" - Tomasz Sawiak, Safe Computing
 
@@ -1902,15 +1902,15 @@ More information: <http://www.issa.org.pl/content/view/129/1/>
 ### On 10th June 2010
 
 6:00pm - 6:15pm ... "OWASP News" - Przemyslaw Skowron /PL/ -
-[Slides](Media:OWASP_20100610_PSkowron_OWASP_News.pdf "wikilink")
+[Slides](Media:OWASP_20100610_PSkowron_OWASP_News.pdf )
 6:15pm - 7:10pm ... "Creating, obfuscating and analysis of
 JavaScript-based malware." - Krzysztof Kotowicz /PL/ -
-[Slides](Media:OWASP_20100610_KKotowicz_Analysis_of_Javascript-based_malware.pdf "wikilink")
+[Slides](Media:OWASP_20100610_KKotowicz_Analysis_of_Javascript-based_malware.pdf )
 |
 [Video](http://www.varlog.pl/2010/06/czerwcowe-spotkanie-owasp-video/)
 7:15pm - 8:00pm ... "Network Forensic: what captured packets say" -
 Paweł Goleń /PL/ -
-[Slides](Media:OWASP_20100610_PGolen_Network_Forensic.pdf "wikilink") |
+[Slides](Media:OWASP_20100610_PGolen_Network_Forensic.pdf ) |
 [Video](http://www.varlog.pl/2010/06/czerwcowe-spotkanie-owasp-video/)
 
 ### OWASP Partnership during KrakSpot Tech \#1
@@ -1928,13 +1928,13 @@ More information: <http://2010.confidence.org.pl/>
 ### On 13th May 2010
 
 6:05pm - 7:00pm ... "Drive-by download attacks" - Filip Palian /PL/ -
-[Slides](Media:OWASP_20100513_FPalian_Drive-by_download.ppt "wikilink")
+[Slides](Media:OWASP_20100513_FPalian_Drive-by_download.ppt )
 | [Video](http://www.varlog.pl/2010/06/majowe-spotkanie-owasp-video/)
 7:05pm - 7:50pm ... "Detection and analysis of malicious web sites" -
 Łukasz Juszczyk /PL/ -
-[Slides](Media:OWASP_20100513_LJuszczyk_Detection_and_analysis_malicious.pdf "wikilink")
-| [Extra\#1](Media:OWASP_20100513_LJuszczyk_m.pdf "wikilink") |
-[Extra\#2](Media:OWASP_20100513_LJuszczyk_jsunpack.pdf "wikilink") |
+[Slides](Media:OWASP_20100513_LJuszczyk_Detection_and_analysis_malicious.pdf )
+| [Extra\#1](Media:OWASP_20100513_LJuszczyk_m.pdf ) |
+[Extra\#2](Media:OWASP_20100513_LJuszczyk_jsunpack.pdf ) |
 [Video](http://www.varlog.pl/2010/06/majowe-spotkanie-owasp-video/)
 
 ### OWASP Partnership during SEConference 2010
@@ -1951,18 +1951,18 @@ More information: <http://www.2k10.seconference.pl/docs/>
 Security" - Julia Juraszek, ISSA Polska, Polkomtel S.A.
 7.00pm - 7.40pm ... "OWASP - Incident handling: Web Application Attacks"
 - Przemyslaw Skowron, OWASP Poland /PL/ -
-[Slides](Media:OWASP_20100317-PSkowron-Incident_Handling.pdf "wikilink")
+[Slides](Media:OWASP_20100317-PSkowron-Incident_Handling.pdf )
 
 ### On 10th March 2010
 
 5:00pm - 5:05pm ... "OWASP News" - Przemyslaw Skowron /PL/ -
-[Slides](Media:OWASP_20100310-PSkowron-OWASP_News.ppt "wikilink")
+[Slides](Media:OWASP_20100310-PSkowron-OWASP_News.ppt )
 5:05pm - 6:10pm ... "SQL Injection: complete walktrough (not only) for
 PHP developers" - Krzysztof Kotowicz /PL/ -
-[Slides](Media:OWASP_20100310_KKotowicz_SQL_Injection.ppt "wikilink") |
+[Slides](Media:OWASP_20100310_KKotowicz_SQL_Injection.ppt ) |
 [Video](http://www.varlog.pl/2010/03/marcowe-spotkanie-owasp-php-video/)
 6:15pm - 7:20pm ... "Secure PHP framework" - Łukasz Pilorz /PL/ -
-[Slides](Media:OWASP_20100310_LPilorz_Secure_PHP_Framework.pdf "wikilink")
+[Slides](Media:OWASP_20100310_LPilorz_Secure_PHP_Framework.pdf )
 |
 [Video](http://www.varlog.pl/2010/03/marcowe-spotkanie-owasp-php-video/)
 
@@ -1981,11 +1981,11 @@ More information:
 
 6:20pm - 6:30pm ... "OWASP News" - Przemyslaw Skowron
 6:30pm - 7:15pm ... "Fuzzing" - Piotr Laskawiec /PL/ -
-[Slides](Media:OWASP_20100114_PLaskawiec_Fuzzing.pdf "wikilink"), /EN/ -
-[Slides](Media:OWASP_20100114_PLaskawiec_Fuzzing-en.pdf "wikilink")
+[Slides](Media:OWASP_20100114_PLaskawiec_Fuzzing.pdf ), /EN/ -
+[Slides](Media:OWASP_20100114_PLaskawiec_Fuzzing-en.pdf )
 7:15pm - 8:00pm ... "Security in Software Development Life Cycle" -
 Wojtek Dworakowski /PL/ -
-[Slides](Media:OWASP_20100114_WDworakowski_Security_in_SDLC.pptx‎ "wikilink")
+[Slides](Media:OWASP_20100114_WDworakowski_Security_in_SDLC.pptx‎ )
 
 ## 2009
 
@@ -1997,13 +1997,13 @@ Wojtek Dworakowski /PL/ -
 by Michał Wiczyński
 7:30pm - 8:10pm ... "Real Life Information Security" - Pawel Krawczyk
 /EN/ -
-[Slides](Media:OWASP_20091217_PKrawczyk_Real_World_Security.ppt‎ "wikilink")
+[Slides](Media:OWASP_20091217_PKrawczyk_Real_World_Security.ppt‎ )
 
 ### On 12th February 2009
 
 6:00pm - 6:30pm ... "OWASP News" - Andrzej Targosz
 6:30pm - 7:30pm ... "Blind SQL Injections" - Jacek Wlodarczyk /PL/ -
-[Slides](Media:OWASP_20090212_JW_Blind_SQLi.ppt "wikilink")
+[Slides](Media:OWASP_20090212_JW_Blind_SQLi.ppt )
 7:30pm - 9:30pm ... OWASP UNConference
 
 ## 2008
@@ -2018,12 +2018,12 @@ are going..." - Andrzej Targosz
 
 6:15pm - 7:10pm ... "Wargame @ Confidence/OWASP EU 2008 vs. OWASP
 Testing Guide" - Przemysław Skowron /PL/ -
-[Slides](Media:OWASP_20081023-prezentacja.pdf "wikilink") ,
-[MindMap](Media:OWASP_20081023-mind_mapa.pdf "wikilink")
+[Slides](Media:OWASP_20081023-prezentacja.pdf ) ,
+[MindMap](Media:OWASP_20081023-mind_mapa.pdf )
 7:15pm - 8:10pm ... "Intrusion detection for web applications" - Łukasz
-Pilorz /EN/ - [Slides](Media:OWASP_WebIDS_pub.pdf "wikilink")
+Pilorz /EN/ - [Slides](Media:OWASP_WebIDS_pub.pdf )
 8:15pm - 9:10pm ... "Session management for Web Application" - Paweł
-Goleń /PL/ - [Slides](Media:Owasp_prezentacja.pdf "wikilink")
+Goleń /PL/ - [Slides](Media:Owasp_prezentacja.pdf )
 
 ### On 25th April 2008
 
@@ -2055,11 +2055,11 @@ Sajko
 ### Presentation
 
   - Presentation: OWASP Intro By Robert 'Shadow' Pajak -
-    [Slides](Media:OWASP_about.pdf "wikilink")
+    [Slides](Media:OWASP_about.pdf )
   - Presentation: OWASP SPoC By Przemyslaw 'rezos' Skowron -
-    [Slides](Media:OWASP_Day_Poland_rezos.pdf "wikilink")
+    [Slides](Media:OWASP_Day_Poland_rezos.pdf )
   - Presentation: Penetration tests OWASP in practice By Jarek Sajko -
-    [Slides](Media:OWASP_practice.pdf "wikilink")
+    [Slides](Media:OWASP_practice.pdf )
 
 ### On 19th April 2007
 
@@ -2073,5 +2073,5 @@ friends interested in security.
 
 __NOTOC__ <headertabs></headertabs>
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Europe](Category:Europe "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
+[Category:Europe](Category:Europe )
