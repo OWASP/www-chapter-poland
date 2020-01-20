@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Alexander Antukh](mailto:alexander.antukh@owasp.org)
+* [Daniel Krasnokucki](mailto:daniel.krasnokucki@owasp.org)
