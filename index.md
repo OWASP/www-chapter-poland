@@ -31,9 +31,33 @@ Please change these items to indicate the actual information you wish to present
 {copy for this file (index.md)}
 Replace the text above the commented area with your information in the format below:
 ```
+-->
 ## Welcome
-Include some information here about your chapter
+Witamy wszystkich bardzo serdecznie na stronie polskiej grupy OWASP. Obecnie prowadzimy działania w regionach wymienionych poniej.
 
+You are welcome on the Polish OWASP Chapter website! 
+We currently act in following regions:
+* Warszawa
+* Kraków
+* Poznań
+* Wrocław
+* Śląsk
+* Trójmiasto
+
+## Who are we
+
+The original Polish Chapter was founded in June 2007 by Andrzej Targosz and Robert Pajak. 
+Current chapter leader is [Daniel Krasnokucki](mailto:daniel.krasnokucki@owasp.org). 
+Acting Chapter Board members are: 
+* [Alexander Anthuk](mailto:alexander.antukh@owasp.org),
+* [Michal Kurek](mailto:michal.kurek@owasp.org), 
+* [Wojciech Dworakowski](mailto:wojciech.dworakowski@owasp.org), 
+* [Michał Olczak](mailto:michal.olczak@obserwatorium.biz), 
+* [Paweł Rzepa](mailto:pawel.rzepa@owasp.org).
+
+{% include chapter_events.html group=page.meetup-group %}
+
+<!--
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
