@@ -22,7 +22,6 @@ Chapter Supporter
 ![Checkmarx_logo_OWASP.png](Checkmarx_logo_OWASP.png
 "Checkmarx_logo_OWASP.png")- Platinum Chapter Supporter
 
-
 ![Securing_logo_cmyk_150.png](Securing_logo_cmyk_150.png
 "Securing_logo_cmyk_150.png") - Gold Chapter Supporter
 ![KPMG_logo.png](KPMG_logo.png "KPMG_logo.png") - Silver Chapter

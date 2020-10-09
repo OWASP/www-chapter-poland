@@ -32,11 +32,14 @@ Please change these items to indicate the actual information you wish to present
 Replace the text above the commented area with your information in the format below:
 ```
 -->
+
 ## Welcome
+
 Witamy wszystkich bardzo serdecznie na stronie polskiej grupy OWASP. Obecnie prowadzimy działania w regionach wymienionych poniej.
 
-You are welcome on the Polish OWASP Chapter website! 
+You are welcome on the Polish OWASP Chapter website!
 We currently act in following regions:
+
 * Warszawa
 * Kraków
 * Poznań
@@ -46,13 +49,14 @@ We currently act in following regions:
 
 ## Who are we
 
-The original Polish Chapter was founded in June 2007 by Andrzej Targosz and Robert Pajak. 
-Current chapter leader is [Daniel Krasnokucki](mailto:daniel.krasnokucki@owasp.org). 
-Acting Chapter Board members are: 
+The original Polish Chapter was founded in June 2007 by Andrzej Targosz and Robert Pająk.
+Current chapter leader is [Daniel Krasnokucki](mailto:daniel.krasnokucki@owasp.org).
+Acting Chapter Board members are:
+
 * [Alexander Anthuk](mailto:alexander.antukh@owasp.org),
-* [Michal Kurek](mailto:michal.kurek@owasp.org), 
-* [Wojciech Dworakowski](mailto:wojciech.dworakowski@owasp.org), 
-* [Michał Olczak](mailto:michal.olczak@obserwatorium.biz), 
+* [Michal Kurek](mailto:michal.kurek@owasp.org),
+* [Wojciech Dworakowski](mailto:wojciech.dworakowski@owasp.org),
+* [Michał Olczak](mailto:michal.olczak@obserwatorium.biz),
 * [Paweł Rzepa](mailto:pawel.rzepa@owasp.org).
 
 {% include chapter_events.html group=page.meetup-group %}
@@ -76,6 +80,4 @@ This separate file is where you should place links to your Google Group and Meet
 
 {leaders.md}
 
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.-->

@@ -2,6 +2,7 @@
 * Polish Chapter -->
 
 ### Social Links
+
 * [Meetup](https://www.meetup.com/pl-PL/owasp-poland/)
 * [Twitter](https://twitter.com/owasppoland)
 * [Facebook](https://www.facebook.com/OWASP.Poland)

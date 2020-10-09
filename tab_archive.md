@@ -6,8 +6,6 @@ order: 2
 tags: archive
 ---
 
-# Archive
-
 ## Previous board leaders
 
 If you have any questions about previous activities, do not hesitate to
@@ -18,7 +16,8 @@ contact previous Chapter Leaders:
 (2009-2011) [Przemyslaw Skowron](mailto:przemyslaw.skowron@owasp.org)
 (2007-2009) [Andrzej Targosz](mailto:andrzej.targosz@proidea.org.pl)
 
-## Previous Chapter Board members:
+## Previous Chapter Board members
+
 [Marek Zmyslowski](mailto:marek.zmyslowski@owasp.org)
 [Paweł Krawczyk](https://plus.google.com/+PawełKrawczyk/)
 [Łukasz Gołygowski](mailto:lgolygowski@gmail.com)
