@@ -53,7 +53,7 @@ The original Polish Chapter was founded in June 2007 by Andrzej Targosz and Robe
 Current chapter leader is [Daniel Krasnokucki](mailto:daniel.krasnokucki@owasp.org).
 Acting Chapter Board members are:
 
-* [Alexander Anthuk](mailto:alexander.antukh@owasp.org),
+* [Alexander Antukh](mailto:alexander.antukh@owasp.org),
 * [Michal Kurek](mailto:michal.kurek@owasp.org),
 * [Wojciech Dworakowski](mailto:wojciech.dworakowski@owasp.org),
 * [Michał Olczak](mailto:michal.olczak@obserwatorium.biz),
