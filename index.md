@@ -1,5 +1,4 @@
 ---
-
 layout: col-sidebar
 title: OWASP Poland
 tags: poland
@@ -9,7 +8,6 @@ auto-migrated: 0
 meetup-group: owasp-poland
 country: Poland
 postal-code: 
-
 ---
 
 
