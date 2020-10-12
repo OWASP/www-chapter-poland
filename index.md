@@ -4,7 +4,6 @@ title: OWASP Poland
 tags: poland
 level: 2
 region: Europe
-auto-migrated: 0
 meetup-group: owasp-poland
 country: Poland
 postal-code: 
@@ -57,7 +56,7 @@ Acting Chapter Board members are:
 * [Michał Olczak](mailto:michal.olczak@obserwatorium.biz),
 * [Paweł Rzepa](mailto:pawel.rzepa@owasp.org).
 
-{% include chapter_events.html group=page.meetup-group %}
+<!-- {% include chapter_events.html group=page.meetup-group %} -->
 
 <!--
 ## Participation
