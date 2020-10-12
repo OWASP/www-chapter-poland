@@ -3,7 +3,7 @@ title: Archive
 layout:  null
 tab: true
 order: 2
-tags: archive
+tags: archive poland
 ---
 
 ## Previous board leaders
