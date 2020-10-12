@@ -2,11 +2,9 @@
 
 layout: col-sidebar
 title: OWASP Poland
-tags: example-tag
-level: 0
-
+tags: poland
+level: 2
 region: Europe
-
 auto-migrated: 0
 meetup-group: owasp-poland
 country: Poland
@@ -32,6 +30,8 @@ Please change these items to indicate the actual information you wish to present
 Replace the text above the commented area with your information in the format below:
 ```
 -->
+
+![Poland Chapter Logo](assets/images/OWASP_Poland_logo.png)
 
 ## Welcome
 
