@@ -2,7 +2,6 @@
 layout: col-sidebar
 title: OWASP Poland
 tags: poland
-level: 2
 region: Europe
 meetup-group: owasp-poland
 country: Poland
