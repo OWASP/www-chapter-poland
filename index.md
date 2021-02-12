@@ -2,11 +2,10 @@
 layout: col-sidebar
 title: OWASP Poland
 tags: poland
-level: 3
+level: 2
 region: Europe
 meetup-group: owasp-poland
 country: Poland
-postal-code: 
 ---
 
 <!-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) -->
@@ -31,10 +30,11 @@ We currently act in following regions:
 
 The original Polish Chapter was founded in June 2007 by Andrzej Targosz and Robert Pająk.
 Current chapter leader is [Daniel Krasnokucki](mailto:daniel.krasnokucki@owasp.org).
-Acting Chapter Board members are:
 
-* [Alexander Antukh](mailto:alexander.antukh@owasp.org),
-* [Michal Kurek](mailto:michal.kurek@owasp.org),
-* [Wojciech Dworakowski](mailto:wojciech.dworakowski@owasp.org),
-* [Michał Olczak](mailto:michal.olczak@obserwatorium.biz),
-* [Paweł Rzepa](mailto:pawel.rzepa@owasp.org).
+## Continuous CfP
+Zapraszamy do ciągłego zgłaszania się do kolej nych MeetUpów - na razie on-line, ale po zniesieniu obostrzeń wracamy do norm alnych spotkań. 
+
+Please fill CfP whenever you want to share your research!
+
+[Call for Papers - OWASP Poland MeetUp](https://forms.gle/F33n4PMqMdUFDR1z5)
+
