@@ -32,7 +32,7 @@ The original Polish Chapter was founded in June 2007 by Andrzej Targosz and Robe
 Current chapter leader is [Daniel Krasnokucki](mailto:daniel.krasnokucki@owasp.org).
 
 ## Continuous CfP
-Zapraszamy do ciągłego zgłaszania się do kolej nych MeetUpów - na razie on-line, ale po zniesieniu obostrzeń wracamy do norm alnych spotkań. 
+Zapraszamy do ciągłego zgłaszania się do kolej nych MeetUpów - na razie on-line, ale po zniesieniu obostrzeń wracamy do normalnych spotkań. 
 
 Please fill CfP whenever you want to share your research!
 
