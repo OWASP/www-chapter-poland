@@ -29,4 +29,4 @@ Supporter
 ![Bluesec.png](Bluesec.png "Bluesec.png") - Silver Chapter Supporter -->
 
 If your company wishes to support our chapter, please contact [Daniel Krasnokucki](mailto:daniel.krasnokucki@owasp.org) or [Wojciech Dworakowski](mailto:wojciech.dworakowski@owasp.org) (terms and
-conditions: <https://www.owasp.org/index.php/Membership>).
+conditions: <https://owasp.org/membership/>).
