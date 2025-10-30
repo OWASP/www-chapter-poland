@@ -1,0 +1,32 @@
+community:
+  - name: chapter-poland
+    platform: slack
+    url: https://owasp.slack.com/archives/C0P205TAT
+    description: OWASP Poland Chapter channel. Zapraszamy! ;)
+leaders:
+  - name: Daniel Krasnokucki
+    email: daniel.krasnokucki@owasp.org
+    github: danielkrasnokucki
+  - name: Michal Kurek
+    email: michal.kurek@owasp.org
+  - name: Wojciech Dworakowski
+    email: wojciech.dworakowski@owasp.org
+  - name: Michał Olczak
+    email: michal.olczak@owasp.org
+location:
+  country: Poland
+  country_code: PL
+  region: Europe
+  latitude: 52.215933
+  longitude: 19.134422
+meetup_group: owasp-poland
+name: OWASP Poland
+repositories:
+  - name: www-chapter-poland
+    url: https://github.com/OWASP/www-chapter-poland
+    description: OWASP Foundation Web Repository
+tags:
+  - poland
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-poland
