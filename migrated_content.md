@@ -700,7 +700,7 @@ podzielonej na poziomy w zależności od ryzyka, w związku z tym zakres
 weryfikacji może być dobrany adekwatnie do specyfiki aplikacji.
 
 Standard ten został stworzony w roku 2009 roku w ramach projektu OWASP
-(Open Web Application Security Project) i został przetłumaczony na
+(Open Worldwide Application Security Project) i został przetłumaczony na
 kilkanaście języków, w tym polski. W tym roku ukazała się aktualizacja
 standardu ASVS i na tej nowej wersji będzie skupiona prezentacja.
 
@@ -1182,7 +1182,7 @@ Zapraszamy na pierwsze spotkanie OWASP Poland w Poznaniu. Dostępny jest
 [kompletny zapis video ze
 spotkania](http://www.youtube.com/channel/UCmQdgdrKZtfypJgHEop4fZg).
 
-  - 15.00 Wojciech Dworakowski "Open Web Application Security Project"
+  - 15.00 Wojciech Dworakowski "Open Worldwide Application Security Project"
   - 15.45 Paweł Krawczyk ["Zarządzanie bezpieczeństwem aplikacji w dużej
     firmie"](http://prezi.com/gsimnen3whfv/zarzadzanie-bezpieczenstwem-aplikacji-w-duzej-firmie/)
   - 16.30 Krzysztof Kotowicz, SecuRing ["HTML 5 – atak i
